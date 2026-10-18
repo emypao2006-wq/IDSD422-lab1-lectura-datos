@@ -1,6 +1,6 @@
 import pandas as pd
 #Carga data/ventas.csv
-ventas = pd.read_csv("/content/data/ventas.csv")
+ventas = pd.read_csv("data/ventas.csv")
 #Imprime los tipos de cada columna
 print("\n Tipos de datos:")
 print(ventas.dtypes)

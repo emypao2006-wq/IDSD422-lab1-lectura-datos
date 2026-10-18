@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 #Lee el archivo JSON
-with open("/content/data/ventas.json", encoding="utf-8") as f:
+with open("data/ventas.json", encoding="utf-8") as f:
   datos = json.load(f)
   #Convierte la estructura JSON en una tabla
   ventas = pd.json_normalize(datos)
