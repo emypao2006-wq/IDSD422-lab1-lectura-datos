@@ -57,10 +57,10 @@ Calculé los indicadores a partir del archivo CSV utilizando funciones de agrupa
 
 ## 5. Conclusiones y recomendación
 
-Los archivos CSV, JSON y Excel presentaron cinco filas y cuatro columnas, y sus registros observados coincidieron. Esto permitió trabajar con la información en Python y R a pesar de las diferencias entre formatos.
+1 Los archivos CSV, JSON y Excel presentaron cinco filas y cuatro columnas, y sus registros observados coincidieron. Esto permitió trabajar con la información en Python y R a pesar de las diferencias entre formatos.
 
-Las variables de ventas y clientes se identificaron como numéricas, lo que facilitó la creación de la columna ticket y el cálculo de los indicadores. Se obtuvo un ticket promedio general de $38,07.
+2 Las variables de ventas y clientes se identificaron como numéricas, lo que facilitó la creación de la columna ticket y el cálculo de los indicadores. Se obtuvo un ticket promedio general de $38,07.
 
-Guayaquil Centro registró la mayor venta, con $15.200, mientras que Cuenca presentó la menor, con $8.540. Sierra fue la región con mayores ventas acumuladas, con $30.860. Estos resultados describen únicamente las cinco sucursales durante la semana analizada y no permiten proyectar ventas futuras.
+3 Guayaquil Centro registró la mayor venta, con $15.200, mientras que Cuenca presentó la menor, con $8.540. Sierra fue la región con mayores ventas acumuladas, con $30.860. Estos resultados describen únicamente las cinco sucursales durante la semana analizada y no permiten proyectar ventas futuras.
 
 Recomendación: Se recomienda a RetailAndina S.A. establecer un procedimiento de validación de los datos y estandarizar los formatos de los reportes para facilitar su integración y reducir posibles errores en futuros análisis.
